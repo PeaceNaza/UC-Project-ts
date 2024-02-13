@@ -1,0 +1,20 @@
+{
+  "name": "uc-project-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typescript",
+    "Parcel",
+    "HTML",
+    "Faker"
+  ],
+  "author": "Peace Nwosu",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
